@@ -17,4 +17,4 @@ First, it tries to read all reviews of a company one after the other, and extrac
 
 Second, it cleans the extracted reviews for further analysis like sentiment analysis and NLP - natural language processing.
 
-The R scripts for the above tasks are provided in two separate files.
+The R scripts for the above tasks are provided in two separate files - Extract.R and then NLP.R resectively.
