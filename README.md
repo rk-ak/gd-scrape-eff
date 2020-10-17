@@ -13,7 +13,8 @@ Another alternative is that, we can build our own web scrapper to extract the re
 
 Here, we will see an R script, which extract the company reviews on Glassdoor very efficiently.
 
-It tries to read all reviews of a company one after the other, and extracts only the required details or fields.
+First, it tries to read all reviews of a company one after the other, and extracts only the required details or fields.
 
-The R script is provided in a separate file.
+Second, it cleans the extracted reviews for further analysis like sentiment analysis and NLP - natural language processing.
 
+The R scripts for the above tasks are provided in two separate files.
